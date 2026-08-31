@@ -1,0 +1,18 @@
+{
+  "default_branch": "main",
+  "branches": [
+    "main",
+    "origin",
+    "test/spiffe-id-trust-domain-failure-handling"
+  ],
+  "parent": {
+    "main": null,
+    "origin": "main",
+    "test/spiffe-id-trust-domain-failure-handling": "main"
+  },
+  "order": [
+    "main",
+    "origin",
+    "test/spiffe-id-trust-domain-failure-handling"
+  ]
+}
